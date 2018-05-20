@@ -20,6 +20,9 @@
   "homepage": "https://github.com/Janinf/express-router-setup.git#readme",
   "author": "Jan Armbruster",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Janinf/express-router-setup.git/issues"
+  },
   "dependencies": {
     "express": "^4.16.3"
   }
