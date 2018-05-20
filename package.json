@@ -1,0 +1,26 @@
+{
+  "name": "express-router-setup",
+  "version": "1.0.0",
+  "description": "An alternative way to create express router files.",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "expressjs",
+    "route",
+    "router",
+    "expressjs-router",
+    "express-route",
+    "expressjs-route",
+    "express-router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janinf/express-router-setup.git"
+  },
+  "homepage": "https://github.com/Janinf/express-router-setup.git",
+  "author": "Jan Armbruster",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
