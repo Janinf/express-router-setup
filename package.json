@@ -15,9 +15,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Janinf/express-router-setup.git"
+    "url": "git+https://github.com/Janinf/express-router-setup.git"
   },
-  "homepage": "https://github.com/Janinf/express-router-setup.git",
+  "homepage": "https://github.com/Janinf/express-router-setup.git#readme",
   "author": "Jan Armbruster",
   "license": "MIT",
   "dependencies": {
